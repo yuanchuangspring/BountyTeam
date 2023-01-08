@@ -13,7 +13,8 @@
 ## Install
 
 ```sh
-index.html
+git clone https://github.com/yuanchuangspring/BountyTeam
+run index.html
 ```
 
 ## Author
