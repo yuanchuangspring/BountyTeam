@@ -1,7 +1,7 @@
 <h1 align="center">赏金小队 BountyTeam</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-DEMO-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/yuanchuangspring.github.io" target="_blank">
+  <a href="https://twitter.com/StudentLifelong" target="_blank">
     <img alt="Twitter: @StudentLifelong" src="https://img.shields.io/twitter/follow/studentlifelong.svg?style=social" />
   </a>
 </p>
