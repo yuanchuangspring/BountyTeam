@@ -1,6 +1,8 @@
 <h1 align="center">赏金小队 BountyTeam</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-DEMO-blue.svg?cacheSeconds=2592000" />
+  <img alt="Phaser" src="https://img.shields.io/badge/phaser.js-3.55.2-green" />
+  
   <a href="https://twitter.com/StudentLifelong" target="_blank">
     <img alt="Twitter: @StudentLifelong" src="https://img.shields.io/twitter/follow/studentlifelong.svg?style=social" />
   </a>
