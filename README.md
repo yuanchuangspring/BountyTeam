@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-DEMO-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/yuanchuangspring.github.io" target="_blank">
-    <img alt="Twitter: yuanchuangspring.github.io" src="https://img.shields.io/twitter/follow/yuanchuangspring.github.io.svg?style=social" />
+    <img alt="Twitter: thestudentlifelong" src="https://img.shields.io/twitter/follow/studentlifelong.github.io.svg?style=social" />
   </a>
 </p>
 
