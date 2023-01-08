@@ -21,12 +21,9 @@ index.html
 👤 **特学生工作室|TheStudentStudio**
 
 * Website: https://
-* Twitter: [@yuanchuangspring.github.io](https://twitter.com/yuanchuangspring.github.io)
+* Twitter: [@StudentLifelong](https://twitter.com/studentlifelong)
 * Github: [@yuanchuangspring](https://github.com/yuanchuangspring)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
