@@ -10,7 +10,7 @@
 
 > 基于phaserjs的卡牌肉鸽游戏
 
-### ✨ [Demo](https://yuanchuangspring.github.io)
+### ✨ [Demo|点击试玩](https://yuanchuangspring.github.io/card)
 
 ## Install
 
